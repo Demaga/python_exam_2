@@ -1,0 +1,23 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="C:\Users\DemagaPC\AppData\Local\Programs\Python\Python37\python.exe" value="false" />
+        <entry key="C:\Users\DemagaPC\PycharmProjects\Project Figure\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="C:\Users\DemagaPC\PycharmProjects\Project Figure\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="C:\Users\DemagaPC\PycharmProjects\Project Figure\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
