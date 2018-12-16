@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="heroes_stats" type="PLAIN_TEXT" />
       <mapping pattern="heroes_default" type="PLAIN_TEXT" />
+      <mapping pattern="heroes_dict" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
