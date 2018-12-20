@@ -8,6 +8,7 @@
       <mapping pattern="heroes_default" type="PLAIN_TEXT" />
       <mapping pattern="file 1" type="PLAIN_TEXT" />
       <mapping pattern="heroes_dict" type="PLAIN_TEXT" />
+      <mapping pattern="new file" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
